@@ -78,9 +78,9 @@ h1 {
 }
 
 .about__btn:hover {
-    transform: translateY(-0, 3rem);
+    transform: translateY(-0.3rem);
     box-shadow: 0 1rem 2rem rgba(0, 0, 0, .1);
-    font-weight: 700;
+    /* font-weight: 700; */
 }
 
 .about__btn:active {
